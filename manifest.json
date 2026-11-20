@@ -1,0 +1,8 @@
+{
+  "name": "KPI Dashboard Starter",
+  "description": "Builds an editable, clickable KPI dashboard prototype (start screen + KPI detail screen) with example data and slots for your team's KPIs.",
+  "code": "plugin.js",
+  "icon": "icon.png",
+  "version": 2,
+  "permissions": ["content:read", "content:write"]
+}
